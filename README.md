@@ -1,6 +1,6 @@
 JokerJumper
 ===========
 
-An iOS Running Game
+This is a 2D iOS arcade game
 
-This is an iOS game created by Yu Sun, Heguang Liu and Tao Hu.
+version: iPad3, iPad4
